@@ -1,4 +1,4 @@
-# LabVIEW Virtual Instrumentation Sample Programs
+# LabVIEW Virtual Instrumentation Programs
 
 This repository contains a collection of virtual instrumentation programs designed to help you become familiar with LabVIEW software. The programs are organized into modules following the syllabus prescribed by VTU (Visvesvaraya Technological University).
 The programs are divided into Modules according to the syllabus prescribed by the VTU.
