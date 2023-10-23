@@ -1,21 +1,23 @@
 # LabVIEW Virtual Instrumentation Programs
 
-This repository contains a collection of virtual instrumentation programs designed to help you become familiar with LabVIEW software. The programs are organized into modules following the syllabus prescribed by VTU (Visvesvaraya Technological University).
-The programs are divided into Modules according to the syllabus prescribed by the VTU.
-<br>
+Welcome to the LabVIEW Virtual Instrumentation Programs repository! Here, you'll find a comprehensive collection of virtual instrumentation programs aimed at helping you get acquainted with LabVIEW software. These programs have been thoughtfully organized into distinct modules, aligning with the curriculum set forth by VTU (Visvesvaraya Technological University).
+
 ## Modules
-1. Module 1
-    1. Graphical System Design.
-2. Module 2
-    1. Introduction to LabVIEW.
-    2. Repetition and Loops.
-3. Module 3
-    1. Arrays.
-4. Module 4
-    1. Plotting Data.
-5. Module 5
-    1. File Input/ Output.
-    2. Instrument Control.
+Explore the following modules to enhance your LabVIEW skills:
 
+### Module 1: Graphical System Design
+- Discover the fundamentals of graphical system design.
 
+### Module 2: Introduction to LabVIEW
+- Dive into LabVIEW with an introduction to its core concepts.
+- Gain expertise in using repetition and loops for efficient programming.
 
+### Module 3: Arrays
+- Master the handling and manipulation of arrays.
+
+### Module 4: Plotting Data
+- Learn to visualize data effectively through plotting techniques.
+
+### Module 5: File Input/Output and Instrument Control
+- Explore the intricacies of file input/output operations.
+- Harness the power of instrument control in LabVIEW.
