@@ -20,5 +20,3 @@ Learn the art of data visualization through advanced plotting techniques. This m
 
 ### Module 5: File Input/Output and Instrument Control
 Unravel the intricacies of file input/output operations in LabVIEW, a vital skill for data storage and retrieval. Additionally, harness the power of instrument control to interface with external hardware seamlessly.
-
-Embark on your LabVIEW journey with these modules, and pave the way for successful and efficient virtual instrumentation. Start exploring, learning, and creating with LabVIEW today!
