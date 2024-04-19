@@ -1,4 +1,4 @@
-# LabVIEW Virtual Instrumentation Programs
+# VTU CSE LabVIEW Virtual Instrumentation Programs
 
 Welcome to the LabVIEW Virtual Instrumentation Programs repository! This collection is your gateway to a wealth of virtual instrumentation programs meticulously designed to facilitate your journey into the world of LabVIEW software. Our repository is structured to align seamlessly with the curriculum set by VTU (Visvesvaraya Technological University), ensuring that you're well-prepared to harness the potential of LabVIEW for your projects and studies.
 
